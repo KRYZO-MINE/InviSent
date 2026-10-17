@@ -45,4 +45,4 @@ The app runs in the browser. Contact lists and the message template are saved in
 
 ## Branding and sharing
 
-`whatsapp-link-generator.svg` is used in the app header, as the SVG favicon, and as the social sharing image. The page metadata points to the live site at <https://invisent.kryzo.space/>. Social crawlers can display the preview only when both the site and SVG are publicly accessible.
+`whatsapp-link-generator.svg` is used in the app header and as the SVG favicon. `og-image.jpg` is used for Open Graph and Twitter social previews. The page metadata points to the live site at <https://invisent.kryzo.space/>. Social crawlers can display the preview only when the site and image are publicly accessible.
