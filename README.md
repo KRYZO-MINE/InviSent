@@ -1,6 +1,6 @@
 # InviSent
 
-![InviSent logo](./whatsapp-link-generator.svg)
+![InviSent logo](./og-image.jpg)
 
 **InviSent** is a browser-based tool for preparing personalized WhatsApp Web links from a contact list. It builds a pre-filled message for each contact and opens the matching WhatsApp Web chat so you can review and send it yourself.
 
